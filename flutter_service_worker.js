@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b2554bb17c22b22ebde4f26ba1ced3a9",
+  "assets/AssetManifest.json": "71b2657f1f76884584a390900404b771",
 "assets/assets/bank.svg": "941c0480bea8bdc6ca7d29fc0b4640fc",
 "assets/assets/calendar.svg": "5da24f42cc2eac5ba7f84b37d2163055",
 "assets/assets/card.png": "299e694bfe68985abd9c4e3ea19802d2",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "assets/assets/electricity.svg": "b5f6b7666493bd2736f57883b466bb52",
 "assets/assets/home.svg": "63f7eabb7a7d78c178031926c3c9973a",
 "assets/assets/invoice.svg": "f7d19983441244e6bd59d7b121b34da0",
-"assets/assets/logo.jpg": "18de3943d4b10f2254bb8ae0dca8c95b",
+"assets/assets/logo.png": "f1f86bb0439a113e58cc39b4c2e6ccd4",
 "assets/assets/mac-action.svg": "2cb979bc37be9018b71aaae1e810e33e",
 "assets/assets/man.jpeg": "3667d100cf087238f2cdf0a45a6c587c",
 "assets/assets/pie-chart.svg": "23d3f5bae0abfbd169de394912e752af",
@@ -42,9 +42,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5e0423763adc66f25032c14878a01ea2",
-"/": "5e0423763adc66f25032c14878a01ea2",
-"main.dart.js": "a0f1f83ac5e2d48da97ce51d54ddfc4a",
+"index.html": "5a539a9f4c7411a0443e25dddc653c5f",
+"/": "5a539a9f4c7411a0443e25dddc653c5f",
+"main.dart.js": "061bed9e2d8be4b9a0602088df4cb347",
 "manifest.json": "f4d094d8b2bfa39aae8044d35249625f",
 "version.json": "0d3a57c9ec55df93da81fd8b526035c0"
 };
